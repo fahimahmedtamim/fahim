@@ -1,0 +1,26 @@
+body{background-image: url("../img/fahim.jpg");
+  background-size: cover;
+  :fixed;
+}
+  #fahim{
+    background-color:aqua;
+  }
+
+  #footer ul {
+    text-align: right;
+  }
+  .pra{
+    border-width: 20px; border-style:outset; border-color:aqua; border-radius: 10px;
+    text-align:start; text-transform:capitalize; outline-style: inset;
+  }
+
+.rup{
+margin:100px ; padding:15px; outline-offset: 30px;text-transform:capitalize; outline-style: double;
+outline-color:red; border:5px double blue; border-radius: 8px;word-spacing: 5px; 
+    outline-width: thick;
+}
+.boma{
+
+   text-align: center; text-decoration: overline; text-decoration-color: firebrick; 
+ font-size: 50px; padding: 20px; line-height: 95px;  text-indent: 9px; margin: 100px;
+}
